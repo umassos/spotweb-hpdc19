@@ -1,5 +1,5 @@
 # SpotWeb
-Code and repo for our SpotWeb paper titled SpotWeb: Running Latency-sensitive Distributed Web Services on Transient Cloud Servers from ACM HPDC 2019. See paper at http://lass.cs.umass.edu/publications/pdf/hpdc19.pdf
+Code and repo for the paper titled "SpotWeb: Running Latency-sensitive Distributed Web Services on Transient Cloud Servers" from ACM HPDC 2019. See paper at http://lass.cs.umass.edu/publications/pdf/hpdc19.pdf
 
 ## Dependencies:
 
